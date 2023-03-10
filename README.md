@@ -7,7 +7,7 @@
 <h2>Description</h2>
 
 <br />
-In this project, I setup Microsoft SIEM - Azure Sentinel and connect it to a live virtual machine which will be acting as a honeypot. We will able to observe world live attacks (RDP Brute Force).
+In this project, I setup Microsoft SIEM - Azure Sentinel and connect it to a live virtual machine which will be acting as a honeypot. We will be able to observe world live attacks (RDP Brute Force).
 I will also use a custom PowerShell script to get the attackers geolocation information and plot it on the Azure Sentinel Map.
 <br />
 <br />
